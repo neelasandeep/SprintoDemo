@@ -1,0 +1,12 @@
+- testCaseName: makeMyTripFlightBook
+  testData: &BaseData
+    TestDataType: smoke
+    from: Bangalore
+    to: Delhi
+
+
+- testCaseName: clearTripFlightBooking
+  testData:
+    TestDataType: smoke
+    from: Bangalore
+    to: Delhi
