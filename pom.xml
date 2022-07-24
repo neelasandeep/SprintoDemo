@@ -80,7 +80,7 @@
           <configuration>
            
             <suiteXmlFiles>
-              <suiteXmlFile>Sanity.xml</suiteXmlFile>
+              <suiteXmlFile>TestRunner.xml</suiteXmlFile>
             </suiteXmlFiles>
           </configuration>
         </plugin>
